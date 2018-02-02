@@ -1,3 +1,0 @@
-%~d0
-cd %~dp0
-java -Xms256M -Xmx1024M -cp .;../lib/routines.jar;../lib/advancedPersistentLookupLib-1.0.jar;../lib/commons-collections-3.2.2.jar;../lib/dom4j-1.6.1.jar;../lib/filecopy.jar;../lib/jakarta-oro-2.0.8.jar;../lib/jboss-serialization.jar;../lib/log4j-1.2.15.jar;../lib/log4j-1.2.16.jar;../lib/mariadb-java-client-1.1.7.jar;../lib/talend_file_enhanced_20070724.jar;../lib/talendcsv.jar;../lib/thashfile-2.0-20170329.jar;../lib/trove.jar;b_meetic_0_1.jar; talend_social_network.b_meetic_0_1.b_meetic --context=Default %* 

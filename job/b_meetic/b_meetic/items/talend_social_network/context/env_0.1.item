@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_LMl7oAYSEeiSQJP25Ma7IQ" confirmationNeeded="false" name="Default">
-  <contextParameter xmi:id="_OP2RQAYSEeiSQJP25Ma7IQ" comment="" name="path" prompt="path?" promptNeeded="false" type="id_String" value="C:\Users\Hao\Desktop\teste"/>
-  <contextParameter xmi:id="_s5TZsAbJEeid97WKFhdwBw" comment="" name="path_tmp" prompt="path_tmp?" promptNeeded="false" type="id_String" value=""/>
-  <contextParameter xmi:id="_v_xKoAblEeid97WKFhdwBw" comment="" name="path_archive" prompt="path_archive?" promptNeeded="false" type="id_String" value="C:/HaoSoftware/TOS_DI-20170623_1246-V6.4.1/workspace/TALEND_SOCIAL_NETWORK/datas/meetic"/>
-</talendfile:ContextType>

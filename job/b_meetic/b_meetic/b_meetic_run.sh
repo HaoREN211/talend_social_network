@@ -1,0 +1,4 @@
+#!/bin/sh
+cd `dirname $0`
+ROOT_PATH=`pwd`
+java -Xms256M -Xmx1024M -cp .:$ROOT_PATH:$ROOT_PATH/../lib/routines.jar:$ROOT_PATH/../lib/advancedPersistentLookupLib-1.0.jar:$ROOT_PATH/../lib/commons-collections-3.2.2.jar:$ROOT_PATH/../lib/dom4j-1.6.1.jar:$ROOT_PATH/../lib/filecopy.jar:$ROOT_PATH/../lib/jakarta-oro-2.0.8.jar:$ROOT_PATH/../lib/jboss-serialization.jar:$ROOT_PATH/../lib/log4j-1.2.15.jar:$ROOT_PATH/../lib/log4j-1.2.16.jar:$ROOT_PATH/../lib/mariadb-java-client-1.1.7.jar:$ROOT_PATH/../lib/talend_file_enhanced_20070724.jar:$ROOT_PATH/../lib/talendcsv.jar:$ROOT_PATH/../lib/thashfile-2.0-20170329.jar:$ROOT_PATH/../lib/trove.jar:$ROOT_PATH/b_meetic_0_1.jar: talend_social_network.b_meetic_0_1.b_meetic --context=Default "$@" 

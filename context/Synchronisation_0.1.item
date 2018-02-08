@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_zXvHUA0MEei5_s1ZRLWB0g" name="Default">
+  <contextParameter xmi:id="_zYrigA0MEei5_s1ZRLWB0g" comment="" name="d1" prompt="d1?" promptNeeded="false" type="id_String" value="c"/>
+  <contextParameter xmi:id="_zYrigQ0MEei5_s1ZRLWB0g" comment="" name="d2" prompt="d2?" promptNeeded="false" type="id_String" value="d"/>
+  <contextParameter xmi:id="_zYrigg0MEei5_s1ZRLWB0g" comment="" name="d3" prompt="d3?" promptNeeded="false" type="id_String" value="g"/>
+  <contextParameter xmi:id="_zYrigw0MEei5_s1ZRLWB0g" comment="" name="path_1" prompt="path_1?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_zYrihA0MEei5_s1ZRLWB0g" comment="" name="path_2" prompt="path_2?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_zYrihQ0MEei5_s1ZRLWB0g" comment="" name="path_3" prompt="path_3?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>
